@@ -1,1 +1,2 @@
 # Prolog-codes
+AI lab 
